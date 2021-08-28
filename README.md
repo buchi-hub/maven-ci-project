@@ -1,1 +1,2 @@
-# maven-ci-project
+# maven-project
+
